@@ -39,6 +39,8 @@ Designed unified customer insights model integrating multiple data sources.
 
 [Download Resume](https://github.com/sumedtaresgit/sumed-tare-portfolio/blob/main/resume.md)
 
+[Download Resume](https://github.com/sumedtaresgit/sumed-tare-portfolio/tree/main/certificates)
+
 ---
 
 ## 📫 Connect With Me
