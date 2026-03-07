@@ -49,4 +49,4 @@ Designed unified customer insights model integrating multiple data sources.
 
 LinkedIn: https://www.linkedin.com/in/sumed-tare-113064220/  
 Email: sumedtaremis@gmail.com  
-GitHub: https://github.com/sumedtaregit
+GitHub: https://github.com/sumedtaresgit/Fabric
